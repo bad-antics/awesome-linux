@@ -29,6 +29,7 @@
   * [Special Purpose](#special-purpose)
     * [CoreOS](#coreos)
     * [Kali Linux](#kali-linux)
+    * [NullSec Linux](#nullsec-linux)
     * [Puppy Linux](#puppy-linux)
     * [Ubuntu Studio](#ubuntu-studio)
     * [Tails](#tails)
@@ -176,6 +177,12 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
+
+#### [NullSec Linux](https://github.com/bad-antics/nullsec-linux)
+
+**Specialty:** Penetration testing and hardware hacking
+
+> NullSec Linux is a Debian-based security distribution designed for penetration testing and hardware hacking. It includes pre-configured tools for Flipper Zero, WiFi Pineapple, USB Rubber Ducky, and Bash Bunny integration. Features include custom AI-assisted pentesting workflows, automated payload deployment, and comprehensive wireless attack toolkits.
 #### [Puppy Linux](http://puppylinux.org/)
 
 **Specialty:** Low system requirements
